@@ -1,10 +1,10 @@
 {
-    "name": "My plugin",
+    "name": "Hate Defender",
     "version": "0.0.1",
-    "description": "Description of my_plugin.",
-    "author_name": "Me",
-    "author_url": "https://mywebsite.me",
-    "plugin_url": "https://github.com/my_name/my_plugin",
-    "tags": "cat, template, example",
-    "thumb": "https://raw.githubusercontent.com/my_repo_path/my_plugin.png"
+    "description": "A plugin to detect and block hate speech in user messages, using Hugging Face transformers.",
+    "author_name": "Net7",
+    "author_url": "https://www.netseven.it/",
+    "plugin_url": "https://github.com/net7/hate-defender",
+    "tags": "hate speech, moderation, safety, transformer",
+    "thumb": "https://raw.githubusercontent.com/net7/hate-defender/main/logo.jpg"
 }
